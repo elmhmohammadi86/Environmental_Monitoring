@@ -97,3 +97,20 @@ If the repository already contains commits, use:
 git pull origin main --rebase
 git push -u origin main
 ```
+
+
+## Permission and Use
+
+This repository is part of a research project at the University of Twente, within the Construction Management and Engineering group.
+
+Project title:
+
+**Development of a plug-and-play sensor kit for environmental monitoring**
+
+The code and materials in this repository are provided for academic and research purposes related to environmental monitoring, sensor data collection, thermal imaging, GPS logging, and data visualization.
+
+Permission to use, modify, or extend this code should be requested from the project contributors and/or the responsible research group before using it outside the scope of this project.
+
+Unless explicitly stated otherwise, this repository is not intended for commercial use, redistribution, or deployment in third-party projects without prior permission.
+
+For questions about reuse, collaboration, or access permission, please contact the repository owner.
