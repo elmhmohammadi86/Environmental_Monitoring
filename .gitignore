@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+Untitled.ipynb
+
+# Anaconda local files
+anaconda_projects/
+
+# Logs and generated data
+logs/
+data_logs/
+thermal_frames/
+dataset_*/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,15 @@
+numpy
+pandas
+plotly
+openpyxl
+matplotlib
+Pillow
+pyserial
+pynmea2
+tifffile
+jupyter
+notebook
+flirpy
+adafruit-blinka
+adafruit-circuitpython-busdevice
+luma.oled
